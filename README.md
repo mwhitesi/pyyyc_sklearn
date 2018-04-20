@@ -14,7 +14,8 @@ Tutorial is in python 3.
 
 The following tools and libraries are needed:
 
-1. `pip install sklearn`
+1. `pip install scikit-learn`
+1. `pip install matplotlib`
 
 And if you want to work in jupyter notebook (interactive programming IDE):
 
