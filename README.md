@@ -22,3 +22,7 @@ And if you want to work in jupyter notebook (interactive programming IDE):
 1. `pip3 install jupyter`. More details here: http://jupyter.readthedocs.io/en/latest/install.html
 
 
+### Using Docker
+1. `docker-compose up`
+
+Once finished, visit http://localhost:8888
